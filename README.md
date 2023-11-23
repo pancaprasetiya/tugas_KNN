@@ -1,2 +1,3 @@
+PANCA PRASETIYA
 # tugas_KNN
 tugas KNN
